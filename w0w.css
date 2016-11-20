@@ -1,0 +1,9 @@
+.expand { transition:font-size 2s; }
+
+div:hover { font-size:2em; }
+
+.stars { font-size:20px;border:50px solid; border-image:url(http://pngimg.com/upload/star_PNG1595.png); }
+
+:required { border:3px solid hotpink; }
+
+:optional { border:3px solid blue; }
